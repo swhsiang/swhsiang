@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Wen Hsiang Shih.</h2>
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=swhsiang&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/swhsiang/)
+ <!--  [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=swhsiang&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/swhsiang/) -->
 
 
 
