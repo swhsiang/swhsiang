@@ -2,13 +2,16 @@
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=swhsiang&include_all_commits=true&theme=buefy&show_icons=true&count_private=true"/>](https://github.com/swhsiang/)
 
+
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💼 &nbsp; Software Engineer
 - 🎓 &nbsp; Purdue University
-- 🤔 &nbsp; Cloud Computing, Robot software&hardware, Embedded software&hardware, RL
+- 🤔 &nbsp; Cloud Computing, Robot software&hardware, RL
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swhsiang&theme=buefy&layout=compact"/>](https://github.com/swhsiang/)
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
